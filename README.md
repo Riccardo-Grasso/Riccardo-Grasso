@@ -76,6 +76,6 @@ I'm a lover of computer science and technology. I love to see my ideas become wo
 -->
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riccardo-Grasso)](https://github.com/yushi1007)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riccardo-Grasso)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccardo-Grasso&layout=compact)](https://github.com/yushi1007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccardo-Grasso&layout=compact)
