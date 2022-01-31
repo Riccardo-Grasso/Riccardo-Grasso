@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<meta property=“og:image” content=“https://user-images.githubusercontent.com/85358782/151780057-443862c7-7a72-4496-824e-93d4490586de.png” />
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/85358782/151780057-443862c7-7a72-4496-824e-93d4490586de.png" alt="my banner">
 </p>
